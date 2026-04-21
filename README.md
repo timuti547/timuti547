@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 地震数据可视化练习
+## 地震数据可视化练习(╯°□°）╯︵ ┻━┻
 <!--
 **timuti547/timuti547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
